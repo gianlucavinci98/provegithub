@@ -7,8 +7,9 @@ public class Test {
 		int a = 0;
 		int b = 0;
 		
-		
-		
+		Object hgdhfd;
+		String alessio;
+
 	}
 
 }
