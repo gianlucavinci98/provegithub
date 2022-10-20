@@ -4,8 +4,11 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("Ciao belli");
-		Object hgdhfd;
-		hgdhfd;
+		int a = 0;
+		int b = 0;
+		
+		
+		
 	}
 
 }
